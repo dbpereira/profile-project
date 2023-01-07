@@ -168,7 +168,7 @@ footer {
 }
 
 /* media queries */
-@media (min-width: 700px) {
+@media (min-width: 50px) {
   :root {
     --bg-url: url(./assets/bg-desktop.jpg);
   }
